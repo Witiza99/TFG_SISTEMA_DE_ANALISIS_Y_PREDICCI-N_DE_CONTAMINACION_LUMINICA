@@ -1,0 +1,30 @@
+version: "3.3"
+
+
+services: 
+
+  modelo_prediccion_contaminacion_luminica:
+      build: ./modelo_prediccion_contaminacion_luminica/app
+      image: modelo_prediccion_contaminacion_luminica
+      ports:
+        - 8000:8000
+      stdin_open: true
+      tty: true
+      volumes:
+        - ./modelo_prediccion_contaminacion_luminica/app:/usr/src/app
+      depends_on:
+        - mysql
+
+  mysql:
+      image: mysql:latest
+      ports:
+        - 3306:3306
+      environment:
+        MYSQL_DATABASE: db
+        MYSQL_USER: user
+        MYSQL_PASSWORD: password
+        MYSQL_ROOT_PASSWORD: password
+      volumes:
+        - ./base_de_datos/database:/var/lib/mysql
+
+

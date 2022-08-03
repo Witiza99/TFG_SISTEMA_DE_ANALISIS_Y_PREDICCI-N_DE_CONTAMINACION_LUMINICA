@@ -14,7 +14,7 @@ import mysql.connector #paquete para insertar en la bd de mysql
 #funcion main para realizar el preporcesamiento necesario de los datos
 def main():
 
-	crear_fichero_entrenamiento()#creamos un fichero extraido de la bd para trabajar
+	crear_fichero()#creamos un fichero extraido de la bd para trabajar
 	fichero_datos = "db.csv"
 
 	Dataset = read_data(fichero_datos)#se leen los datos del fichero creado anteriormente para insertarlo en un Dataset
@@ -52,7 +52,7 @@ def main():
 
 
 #funcion que extrae un fichero a partir de nuestra bd
-def crear_fichero_entrenamiento():
+def crear_fichero():
 	#creamos conexion con la bd
 	conn = mysql.connector.connect(#conexion de la bd
 	   user='root', password='password', host="127.0.0.1", port=3306, database='db')

@@ -1,0 +1,321 @@
+TipoLuminaria,ColorSuelo,AlturaLuminaria,FlujoLuminicoTotal,TCC,IluminanciaAbajo,Espectro,ReflectanciaSuelo,IluminanciaSuperior
+Philips Quijote BRP400 LED54-4s/740dm50,negro,80.0,5400.0,4257.0,1633.0,444.0,4.0,46.84
+Philips Quijote BRP400 LED54-4s/740dm50,gris oscuro,80.0,5400.0,4257.0,1633.0,444.0,20.0,74.35
+Philips Quijote BRP400 LED54-4s/740dm50,gris claro,80.0,5400.0,4257.0,1633.0,444.0,42.0,118.0
+Philips Quijote BRP400 LED54-4s/740dm50,blanco,80.0,5400.0,4257.0,1633.0,444.0,66.0,152.6
+Philips Quijote BRP400 LED54-4s/740dm50,morado,80.0,5400.0,4257.0,1633.0,444.0,4.0,57.25
+Philips Quijote BRP400 LED54-4s/740dm50,rojo,80.0,5400.0,4257.0,1633.0,444.0,10.0,50.37
+Philips Quijote BRP400 LED54-4s/740dm50,verde claro,80.0,5400.0,4257.0,1633.0,444.0,55.0,152.2
+Philips Quijote BRP400 LED54-4s/740dm50,Verde oscuro,80.0,5400.0,4257.0,1633.0,444.0,11.0,100.2
+Philips Quijote BRP400 LED54-4s/740dm50,marrón claro,80.0,5400.0,4257.0,1633.0,444.0,46.0,149.0
+Philips Quijote BRP400 LED54-4s/740dm50,marrón oscuro,80.0,5400.0,4257.0,1633.0,444.0,11.0,65.0
+Philips Quijote BRP400 LED54-4s/740dm50,negro,160.0,5400.0,4257.0,399.0,444.0,4.0,27.16
+Philips Quijote BRP400 LED54-4s/740dm50,gris oscuro,160.0,5400.0,4257.0,399.0,444.0,20.0,31.48
+Philips Quijote BRP400 LED54-4s/740dm50,gris claro,160.0,5400.0,4257.0,399.0,444.0,42.0,45.19
+Philips Quijote BRP400 LED54-4s/740dm50,blanco,160.0,5400.0,4257.0,399.0,444.0,66.0,53.96
+Philips Quijote BRP400 LED54-4s/740dm50,morado,160.0,5400.0,4257.0,399.0,444.0,4.0,32.43
+Philips Quijote BRP400 LED54-4s/740dm50,rojo,160.0,5400.0,4257.0,399.0,444.0,10.0,32.43
+Philips Quijote BRP400 LED54-4s/740dm50,verde claro,160.0,5400.0,4257.0,399.0,444.0,55.0,46.35
+Philips Quijote BRP400 LED54-4s/740dm50,verde ,160.0,5400.0,4257.0,399.0,444.0,27.0,39.6
+Philips Quijote BRP400 LED54-4s/740dm50,Verde oscuro,160.0,5400.0,4257.0,399.0,444.0,11.0,35.88
+Philips Quijote BRP400 LED54-4s/740dm50,marrón claro,160.0,5400.0,4257.0,399.0,444.0,46.0,40.68
+Philips Quijote BRP400 LED54-4s/740dm50,marrón oscuro,160.0,5400.0,4257.0,399.0,444.0,11.0,33.38
+Philips ClearWay BGP303 LED35-4S/740,negro,80.0,3500.0,4144.0,1473.0,442.0,4.0,35.56
+Philips ClearWay BGP303 LED35-4S/740,gris oscuro,80.0,3500.0,4144.0,1473.0,442.0,20.0,69.54
+Philips ClearWay BGP303 LED35-4S/740,gris claro,80.0,3500.0,4144.0,1473.0,442.0,42.0,123.0
+Philips ClearWay BGP303 LED35-4S/740,blanco,80.0,3500.0,4144.0,1473.0,442.0,66.0,207.5
+Philips ClearWay BGP303 LED35-4S/740,morado,80.0,3500.0,4144.0,1473.0,442.0,4.0,51.76
+Philips ClearWay BGP303 LED35-4S/740,rojo,80.0,3500.0,4144.0,1473.0,442.0,10.0,54.47
+Philips ClearWay BGP303 LED35-4S/740,verde claro,80.0,3500.0,4144.0,1473.0,442.0,55.0,146.3
+Philips ClearWay BGP303 LED35-4S/740,verde ,80.0,3500.0,4144.0,1473.0,442.0,27.0,127.4
+Philips ClearWay BGP303 LED35-4S/740,Verde oscuro,80.0,3500.0,4144.0,1473.0,442.0,11.0,67.33
+Philips ClearWay BGP303 LED35-4S/740,marrón claro,80.0,3500.0,4144.0,1473.0,442.0,46.0,133.3
+Philips ClearWay BGP303 LED35-4S/740,marrón oscuro,80.0,3500.0,4144.0,1473.0,442.0,11.0,47.35
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,negro,80.0,6724.0,3181.0,4329.0,605.0,4.0,67.82
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris oscuro,80.0,6724.0,3181.0,4329.0,605.0,20.0,153.6
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris claro,80.0,6724.0,3181.0,4329.0,605.0,42.0,286.0
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,blanco,80.0,6724.0,3181.0,4329.0,605.0,66.0,488.2
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,morado,80.0,6724.0,3181.0,4329.0,605.0,4.0,99.45
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,rojo,80.0,6724.0,3181.0,4329.0,605.0,12.0,140.8
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde claro,80.0,6724.0,3181.0,4329.0,605.0,54.0,342.1
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde ,80.0,6724.0,3181.0,4329.0,605.0,26.0,282.6
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,Verde oscuro,80.0,6724.0,3181.0,4329.0,605.0,10.0,161.5
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón claro,80.0,6724.0,3181.0,4329.0,605.0,48.0,323.2
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón oscuro,80.0,6724.0,3181.0,4329.0,605.0,12.0,112.3
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,negro,160.0,6724.0,3181.0,918.0,605.0,4.0,45.7
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris oscuro,160.0,6724.0,3181.0,918.0,605.0,20.0,62.42
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris claro,160.0,6724.0,3181.0,918.0,605.0,42.0,76.81
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,blanco,160.0,6724.0,3181.0,918.0,605.0,66.0,101.5
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,morado,160.0,6724.0,3181.0,918.0,605.0,4.0,52.19
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,rojo,160.0,6724.0,3181.0,918.0,605.0,12.0,63.34
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde claro,160.0,6724.0,3181.0,918.0,605.0,54.0,87.43
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde ,160.0,6724.0,3181.0,918.0,605.0,26.0,75.76
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,Verde oscuro,160.0,6724.0,3181.0,918.0,605.0,10.0,57.22
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón claro,160.0,6724.0,3181.0,918.0,605.0,48.0,92.61
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón oscuro,160.0,6724.0,3181.0,918.0,605.0,12.0,48.28
+Philips Iridium Gen3 Mini BGP381 GRN45/740,negro,80.0,4500.0,4225.0,1939.0,450.0,4.0,36.52
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris oscuro,80.0,4500.0,4225.0,1939.0,450.0,20.0,65.74
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris claro,80.0,4500.0,4225.0,1939.0,450.0,42.0,108.9
+Philips Iridium Gen3 Mini BGP381 GRN45/740,blanco,80.0,4500.0,4225.0,1939.0,450.0,66.0,225.3
+Philips Iridium Gen3 Mini BGP381 GRN45/740,morado,80.0,4500.0,4225.0,1939.0,450.0,4.0,52.83
+Philips Iridium Gen3 Mini BGP381 GRN45/740,rojo,80.0,4500.0,4225.0,1939.0,450.0,10.0,57.66
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde claro,80.0,4500.0,4225.0,1939.0,450.0,55.0,139.5
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde ,80.0,4500.0,4225.0,1939.0,450.0,27.0,122.5
+Philips Iridium Gen3 Mini BGP381 GRN45/740,Verde oscuro,80.0,4500.0,4225.0,1939.0,450.0,11.0,77.02
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón claro,80.0,4500.0,4225.0,1939.0,450.0,46.0,122.4
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón oscuro,80.0,4500.0,4225.0,1939.0,450.0,11.0,48.08
+Philips Iridium Gen3 Mini BGP381 GRN45/740,negro,160.0,4500.0,4225.0,470.1,450.0,4.0,28.7
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris oscuro,160.0,4500.0,4225.0,470.1,450.0,20.0,38.82
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris claro,160.0,4500.0,4225.0,470.1,450.0,42.0,48.31
+Philips Iridium Gen3 Mini BGP381 GRN45/740,blanco,160.0,4500.0,4225.0,470.1,450.0,66.0,52.6
+Philips Iridium Gen3 Mini BGP381 GRN45/740,morado,160.0,4500.0,4225.0,470.1,450.0,4.0,32.62
+Philips Iridium Gen3 Mini BGP381 GRN45/740,rojo,160.0,4500.0,4225.0,470.1,450.0,10.0,33.39
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde claro,160.0,4500.0,4225.0,470.1,450.0,55.0,47.61
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde ,160.0,4500.0,4225.0,470.1,450.0,27.0,41.7
+Philips Iridium Gen3 Mini BGP381 GRN45/740,Verde oscuro,160.0,4500.0,4225.0,470.1,450.0,11.0,32.4
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón claro,160.0,4500.0,4225.0,470.1,450.0,46.0,42.84
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón oscuro,160.0,4500.0,4225.0,470.1,450.0,11.0,27.85
+Hispaled Vera Series VRS60W R4S PF 3000K,negro,80.0,6000.0,3099.0,4606.0,598.0,4.0,63.78
+Hispaled Vera Series VRS60W R4S PF 3000K,gris oscuro,80.0,6000.0,3099.0,4606.0,598.0,20.0,129.5
+Hispaled Vera Series VRS60W R4S PF 3000K,gris claro,80.0,6000.0,3099.0,4606.0,598.0,42.0,248.6
+Hispaled Vera Series VRS60W R4S PF 3000K,blanco,80.0,6000.0,3099.0,4606.0,598.0,66.0,485.3
+Hispaled Vera Series VRS60W R4S PF 3000K,morado,80.0,6000.0,3099.0,4606.0,598.0,4.0,82.46
+Hispaled Vera Series VRS60W R4S PF 3000K,rojo,80.0,6000.0,3099.0,4606.0,598.0,12.0,117.7
+Hispaled Vera Series VRS60W R4S PF 3000K,verde claro,80.0,6000.0,3099.0,4606.0,598.0,54.0,334.0
+Hispaled Vera Series VRS60W R4S PF 3000K,verde ,80.0,6000.0,3099.0,4606.0,598.0,26.0,230.2
+Hispaled Vera Series VRS60W R4S PF 3000K,Verde oscuro,80.0,6000.0,3099.0,4606.0,598.0,10.0,132.6
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón claro,80.0,6000.0,3099.0,4606.0,598.0,48.0,286.2
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón oscuro,80.0,6000.0,3099.0,4606.0,598.0,12.0,86.02
+Hispaled Vera Series VRS60W R4S PF 3000K,negro,160.0,6000.0,3099.0,1090.0,598.0,4.0,73.3
+Hispaled Vera Series VRS60W R4S PF 3000K,gris oscuro,160.0,6000.0,3099.0,1090.0,598.0,20.0,94.93
+Hispaled Vera Series VRS60W R4S PF 3000K,gris claro,160.0,6000.0,3099.0,1090.0,598.0,42.0,98.22
+Hispaled Vera Series VRS60W R4S PF 3000K,blanco,160.0,6000.0,3099.0,1090.0,598.0,66.0,140.8
+Hispaled Vera Series VRS60W R4S PF 3000K,morado,160.0,6000.0,3099.0,1090.0,598.0,4.0,82.62
+Hispaled Vera Series VRS60W R4S PF 3000K,rojo,160.0,6000.0,3099.0,1090.0,598.0,12.0,86.76
+Hispaled Vera Series VRS60W R4S PF 3000K,verde claro,160.0,6000.0,3099.0,1090.0,598.0,54.0,112.6
+Hispaled Vera Series VRS60W R4S PF 3000K,verde ,160.0,6000.0,3099.0,1090.0,598.0,26.0,112.8
+Hispaled Vera Series VRS60W R4S PF 3000K,Verde oscuro,160.0,6000.0,3099.0,1090.0,598.0,10.0,81.54
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón claro,160.0,6000.0,3099.0,1090.0,598.0,48.0,115.3
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón oscuro,160.0,6000.0,3099.0,1090.0,598.0,12.0,82.94
+Philips EW BLAST POWERCORE CK Intelligent series,negro,80.0,3500.0,2670.0,2673.0,607.0,4.0,19.65
+Philips EW BLAST POWERCORE CK Intelligent series,gris oscuro,80.0,3500.0,2670.0,2673.0,607.0,20.0,66.35
+Philips EW BLAST POWERCORE CK Intelligent series,gris claro,80.0,3500.0,2670.0,2673.0,607.0,42.0,154.2
+Philips EW BLAST POWERCORE CK Intelligent series,blanco,80.0,3500.0,2670.0,2673.0,607.0,66.0,358.8
+Philips EW BLAST POWERCORE CK Intelligent series,morado,80.0,3500.0,2670.0,2673.0,607.0,4.0,41.83
+Philips EW BLAST POWERCORE CK Intelligent series,rojo,80.0,3500.0,2670.0,2673.0,607.0,12.0,80.67
+Philips EW BLAST POWERCORE CK Intelligent series,verde ,80.0,3500.0,2670.0,2673.0,607.0,26.0,160.8
+Philips EW BLAST POWERCORE CK Intelligent series,Verde oscuro,80.0,3500.0,2670.0,2673.0,607.0,10.0,81.95
+Philips EW BLAST POWERCORE CK Intelligent series,marrón claro,80.0,3500.0,2670.0,2673.0,607.0,48.0,185.9
+Philips EW BLAST POWERCORE CK Intelligent series,marrón oscuro,80.0,3500.0,2670.0,2673.0,607.0,12.0,46.66
+Philips EW BLAST POWERCORE CK Intelligent series,negro,80.0,3500.0,2670.0,2673.0,607.0,4.0,18.15
+Philips EW BLAST POWERCORE CK Intelligent series,gris oscuro,80.0,3500.0,2670.0,2673.0,607.0,20.0,63.34
+Philips EW BLAST POWERCORE CK Intelligent series,gris claro,80.0,3500.0,2670.0,2673.0,607.0,42.0,146.1
+Philips EW BLAST POWERCORE CK Intelligent series,blanco,80.0,3500.0,2670.0,2673.0,607.0,66.0,337.9
+Philips EW BLAST POWERCORE CK Intelligent series,morado,80.0,3500.0,2670.0,2673.0,607.0,4.0,42.24
+Philips EW BLAST POWERCORE CK Intelligent series,rojo,80.0,3500.0,2670.0,2673.0,607.0,12.0,84.1
+Philips EW BLAST POWERCORE CK Intelligent series,verde claro,80.0,3500.0,2670.0,2673.0,607.0,54.0,213.2
+Philips EW BLAST POWERCORE CK Intelligent series,verde ,80.0,3500.0,2670.0,2673.0,607.0,26.0,158.4
+Philips EW BLAST POWERCORE CK Intelligent series,Verde oscuro,80.0,3500.0,2670.0,2673.0,607.0,10.0,81.76
+Philips EW BLAST POWERCORE CK Intelligent series,marrón claro,80.0,3500.0,2670.0,2673.0,607.0,48.0,166.7
+Philips EW BLAST POWERCORE CK Intelligent series,marrón oscuro,80.0,3500.0,2670.0,2673.0,607.0,12.0,45.87
+Philips EW BLAST POWERCORE CK Intelligent series,negro,160.0,3500.0,2670.0,2096.0,607.0,4.0,9.27
+Philips EW BLAST POWERCORE CK Intelligent series,gris oscuro,160.0,3500.0,2670.0,2096.0,607.0,20.0,27.57
+Philips EW BLAST POWERCORE CK Intelligent series,gris claro,160.0,3500.0,2670.0,2096.0,607.0,42.0,50.18
+Philips EW BLAST POWERCORE CK Intelligent series,blanco,160.0,3500.0,2670.0,2096.0,607.0,66.0,112.1
+Philips EW BLAST POWERCORE CK Intelligent series,morado,160.0,3500.0,2670.0,2096.0,607.0,4.0,17.47
+Philips EW BLAST POWERCORE CK Intelligent series,verde claro,160.0,3500.0,2670.0,2096.0,607.0,54.0,71.46
+Philips EW BLAST POWERCORE CK Intelligent series,verde ,160.0,3500.0,2670.0,2096.0,607.0,26.0,59.32
+Philips EW BLAST POWERCORE CK Intelligent series,Verde oscuro,160.0,3500.0,2670.0,2096.0,607.0,10.0,30.1
+Philips EW BLAST POWERCORE CK Intelligent series,marrón claro,160.0,3500.0,2670.0,2096.0,607.0,48.0,57.82
+Philips EW BLAST POWERCORE CK Intelligent series,marrón oscuro,160.0,3500.0,2670.0,2096.0,607.0,12.0,19.64
+Philips EW BLAST POWERCORE CK Intelligent series,negro,160.0,3500.0,2670.0,2096.0,607.0,4.0,9.09
+Philips EW BLAST POWERCORE CK Intelligent series,gris claro,160.0,3500.0,2670.0,2096.0,607.0,42.0,50.91
+Philips EW BLAST POWERCORE CK Intelligent series,blanco,160.0,3500.0,2670.0,2096.0,607.0,66.0,111.1
+Philips EW BLAST POWERCORE CK Intelligent series,morado,160.0,3500.0,2670.0,2096.0,607.0,4.0,17.49
+Philips EW BLAST POWERCORE CK Intelligent series,rojo,160.0,3500.0,2670.0,2096.0,607.0,12.0,27.19
+Philips EW BLAST POWERCORE CK Intelligent series,verde claro,160.0,3500.0,2670.0,2096.0,607.0,54.0,71.37
+Philips EW BLAST POWERCORE CK Intelligent series,verde ,160.0,3500.0,2670.0,2096.0,607.0,26.0,60.55
+Philips EW BLAST POWERCORE CK Intelligent series,Verde oscuro,160.0,3500.0,2670.0,2096.0,607.0,10.0,31.87
+Philips EW BLAST POWERCORE CK Intelligent series,marrón claro,160.0,3500.0,2670.0,2096.0,607.0,48.0,58.49
+Philips EW BLAST POWERCORE CK Intelligent series,marrón oscuro,160.0,3500.0,2670.0,2096.0,607.0,12.0,19.98
+Philips RetroFit BGS981(Experimental),negro,80.0,4000.0,3060.0,709.0,627.0,4.0,19.85
+Philips RetroFit BGS981(Experimental),gris oscuro,80.0,4000.0,3060.0,709.0,627.0,20.0,36.83
+Philips RetroFit BGS981(Experimental),gris claro,80.0,4000.0,3060.0,709.0,627.0,42.0,63.97
+Philips RetroFit BGS981(Experimental),blanco,80.0,4000.0,3060.0,709.0,627.0,66.0,115.5
+Philips RetroFit BGS981(Experimental),morado,80.0,4000.0,3060.0,709.0,627.0,4.0,28.59
+Philips RetroFit BGS981(Experimental),rojo,80.0,4000.0,3060.0,709.0,627.0,12.0,33.47
+Philips RetroFit BGS981(Experimental),verde claro,80.0,4000.0,3060.0,709.0,627.0,54.0,80.65
+Philips RetroFit BGS981(Experimental),verde ,80.0,4000.0,3060.0,709.0,627.0,26.0,69.35
+Philips RetroFit BGS981(Experimental),Verde oscuro,80.0,4000.0,3060.0,709.0,627.0,10.0,29.2
+Philips RetroFit BGS981(Experimental),marrón claro,80.0,4000.0,3060.0,709.0,627.0,48.0,75.3
+Philips RetroFit BGS981(Experimental),marrón oscuro,80.0,4000.0,3060.0,709.0,627.0,12.0,30.19
+Philips RetroFit BGS981(Experimental),negro,80.0,4000.0,3060.0,709.0,627.0,4.0,18.15
+Philips RetroFit BGS981(Experimental),gris oscuro,80.0,4000.0,3060.0,709.0,627.0,20.0,36.14
+Philips RetroFit BGS981(Experimental),gris claro,80.0,4000.0,3060.0,709.0,627.0,42.0,63.63
+Philips RetroFit BGS981(Experimental),blanco,80.0,4000.0,3060.0,709.0,627.0,66.0,114.6
+Philips RetroFit BGS981(Experimental),morado,80.0,4000.0,3060.0,709.0,627.0,4.0,27.14
+Philips RetroFit BGS981(Experimental),rojo,80.0,4000.0,3060.0,709.0,627.0,12.0,34.66
+Philips RetroFit BGS981(Experimental),verde claro,80.0,4000.0,3060.0,709.0,627.0,54.0,81.21
+Philips RetroFit BGS981(Experimental),verde ,80.0,4000.0,3060.0,709.0,627.0,26.0,72.61
+Philips RetroFit BGS981(Experimental),Verde oscuro,80.0,4000.0,3060.0,709.0,627.0,10.0,38.6
+Philips RetroFit BGS981(Experimental),marrón oscuro,80.0,4000.0,3060.0,709.0,627.0,12.0,27.98
+Philips RetroFit BGS981(Experimental),negro,160.0,4000.0,3060.0,210.6,627.0,4.0,9.15
+Philips RetroFit BGS981(Experimental),gris oscuro,160.0,4000.0,3060.0,210.6,627.0,20.0,12.59
+Philips RetroFit BGS981(Experimental),gris claro,160.0,4000.0,3060.0,210.6,627.0,42.0,15.27
+Philips RetroFit BGS981(Experimental),blanco,160.0,4000.0,3060.0,210.6,627.0,66.0,21.8
+Philips RetroFit BGS981(Experimental),morado,160.0,4000.0,3060.0,210.6,627.0,4.0,13.38
+Philips RetroFit BGS981(Experimental),rojo,160.0,4000.0,3060.0,210.6,627.0,12.0,14.63
+Philips RetroFit BGS981(Experimental),verde claro,160.0,4000.0,3060.0,210.6,627.0,54.0,18.84
+Philips RetroFit BGS981(Experimental),verde ,160.0,4000.0,3060.0,210.6,627.0,26.0,15.87
+Philips RetroFit BGS981(Experimental),Verde oscuro,160.0,4000.0,3060.0,210.6,627.0,10.0,11.17
+Philips RetroFit BGS981(Experimental),marrón claro,160.0,4000.0,3060.0,210.6,627.0,48.0,18.0
+Philips RetroFit BGS981(Experimental),marrón oscuro,160.0,4000.0,3060.0,210.6,627.0,12.0,10.97
+Philips RetroFit BGS981(Experimental),negro,160.0,4000.0,3060.0,210.6,627.0,4.0,9.14
+Philips RetroFit BGS981(Experimental),gris oscuro,160.0,4000.0,3060.0,210.6,627.0,20.0,12.9
+Philips RetroFit BGS981(Experimental),gris claro,160.0,4000.0,3060.0,210.6,627.0,42.0,14.97
+Philips RetroFit BGS981(Experimental),blanco,160.0,4000.0,3060.0,210.6,627.0,66.0,22.32
+Philips RetroFit BGS981(Experimental),morado,160.0,4000.0,3060.0,210.6,627.0,4.0,13.25
+Philips RetroFit BGS981(Experimental),rojo,160.0,4000.0,3060.0,210.6,627.0,12.0,13.6
+Philips RetroFit BGS981(Experimental),verde claro,160.0,4000.0,3060.0,210.6,627.0,54.0,19.51
+Philips RetroFit BGS981(Experimental),verde ,160.0,4000.0,3060.0,210.6,627.0,26.0,15.72
+Philips RetroFit BGS981(Experimental),Verde oscuro,160.0,4000.0,3060.0,210.6,627.0,10.0,11.64
+Philips RetroFit BGS981(Experimental),marrón claro,160.0,4000.0,3060.0,210.6,627.0,48.0,17.05
+Philips RetroFit BGS981(Experimental),marrón oscuro,160.0,4000.0,3060.0,210.6,627.0,12.0,11.83
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,negro,80.0,4600.0,4033.0,3360.0,452.0,4.0,60.11
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris oscuro,80.0,4600.0,4033.0,3360.0,452.0,20.0,101.8
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris claro,80.0,4600.0,4033.0,3360.0,452.0,42.0,187.6
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,blanco,80.0,4600.0,4033.0,3360.0,452.0,66.0,436.6
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,morado,80.0,4600.0,4033.0,3360.0,452.0,4.0,77.44
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,rojo,80.0,4600.0,4033.0,3360.0,452.0,10.0,87.61
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde claro,80.0,4600.0,4033.0,3360.0,452.0,55.0,284.3
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde ,80.0,4600.0,4033.0,3360.0,452.0,27.0,274.7
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,Verde oscuro,80.0,4600.0,4033.0,3360.0,452.0,11.0,135.7
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón claro,80.0,4600.0,4033.0,3360.0,452.0,46.0,286.0
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón oscuro,80.0,4600.0,4033.0,3360.0,452.0,11.0,88.84
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,negro,80.0,4600.0,4033.0,3360.0,452.0,4.0,70.56
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris oscuro,80.0,4600.0,4033.0,3360.0,452.0,20.0,126.9
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris claro,80.0,4600.0,4033.0,3360.0,452.0,42.0,212.9
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,blanco,80.0,4600.0,4033.0,3360.0,452.0,66.0,431.5
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,morado,80.0,4600.0,4033.0,3360.0,452.0,4.0,81.91
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,rojo,80.0,4600.0,4033.0,3360.0,452.0,10.0,95.22
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde claro,80.0,4600.0,4033.0,3360.0,452.0,55.0,284.4
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde ,80.0,4600.0,4033.0,3360.0,452.0,27.0,278.3
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,Verde oscuro,80.0,4600.0,4033.0,3360.0,452.0,11.0,139.1
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón claro,80.0,4600.0,4033.0,3360.0,452.0,46.0,272.9
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón oscuro,80.0,4600.0,4033.0,3360.0,452.0,11.0,95.32
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris oscuro,160.0,4600.0,4033.0,773.0,452.0,20.0,66.88
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris claro,160.0,4600.0,4033.0,773.0,452.0,42.0,86.02
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,blanco,160.0,4600.0,4033.0,773.0,452.0,66.0,115.0
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,morado,160.0,4600.0,4033.0,773.0,452.0,4.0,67.95
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,rojo,160.0,4600.0,4033.0,773.0,452.0,10.0,64.57
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde claro,160.0,4600.0,4033.0,773.0,452.0,55.0,87.87
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde ,160.0,4600.0,4033.0,773.0,452.0,27.0,86.45
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,Verde oscuro,160.0,4600.0,4033.0,773.0,452.0,11.0,71.53
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón claro,160.0,4600.0,4033.0,773.0,452.0,46.0,86.52
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón oscuro,160.0,4600.0,4033.0,773.0,452.0,11.0,56.92
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,negro,160.0,4600.0,4033.0,773.0,452.0,4.0,65.48
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris oscuro,160.0,4600.0,4033.0,773.0,452.0,20.0,61.12
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,gris claro,160.0,4600.0,4033.0,773.0,452.0,42.0,83.98
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,blanco,160.0,4600.0,4033.0,773.0,452.0,66.0,110.5
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,morado,160.0,4600.0,4033.0,773.0,452.0,4.0,69.94
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,rojo,160.0,4600.0,4033.0,773.0,452.0,10.0,63.05
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde claro,160.0,4600.0,4033.0,773.0,452.0,55.0,93.19
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,verde ,160.0,4600.0,4033.0,773.0,452.0,27.0,86.61
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,Verde oscuro,160.0,4600.0,4033.0,773.0,452.0,11.0,69.08
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón claro,160.0,4600.0,4033.0,773.0,452.0,46.0,86.72
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,marrón oscuro,160.0,4600.0,4033.0,773.0,452.0,11.0,59.29
+Philips Quijote BRP400 LED54-4s/740dm50,negro,80.0,5400.0,4257.0,1633.0,444.0,4.0,46.36
+Philips Quijote BRP400 LED54-4s/740dm50,gris oscuro,80.0,5400.0,4257.0,1633.0,444.0,20.0,75.05
+Philips Quijote BRP400 LED54-4s/740dm50,gris claro,80.0,5400.0,4257.0,1633.0,444.0,42.0,119.3
+Philips Quijote BRP400 LED54-4s/740dm50,blanco,80.0,5400.0,4257.0,1633.0,444.0,66.0,152.7
+Philips Quijote BRP400 LED54-4s/740dm50,morado,80.0,5400.0,4257.0,1633.0,444.0,4.0,54.36
+Philips Quijote BRP400 LED54-4s/740dm50,rojo,80.0,5400.0,4257.0,1633.0,444.0,10.0,49.78
+Philips Quijote BRP400 LED54-4s/740dm50,verde claro,80.0,5400.0,4257.0,1633.0,444.0,55.0,152.24
+Philips Quijote BRP400 LED54-4s/740dm50,verde ,80.0,5400.0,4257.0,1633.0,444.0,27.0,130.1
+Philips Quijote BRP400 LED54-4s/740dm50,Verde oscuro,80.0,5400.0,4257.0,1633.0,444.0,11.0,99.8
+Philips Quijote BRP400 LED54-4s/740dm50,marrón claro,80.0,5400.0,4257.0,1633.0,444.0,46.0,149.4
+Philips Quijote BRP400 LED54-4s/740dm50,marrón oscuro,80.0,5400.0,4257.0,1633.0,444.0,11.0,65.36
+Philips Quijote BRP400 LED54-4s/740dm50,negro,160.0,5400.0,4257.0,399.0,444.0,4.0,26.87
+Philips Quijote BRP400 LED54-4s/740dm50,gris oscuro,160.0,5400.0,4257.0,399.0,444.0,20.0,31.5
+Philips Quijote BRP400 LED54-4s/740dm50,gris claro,160.0,5400.0,4257.0,399.0,444.0,42.0,45.24
+Philips Quijote BRP400 LED54-4s/740dm50,blanco,160.0,5400.0,4257.0,399.0,444.0,66.0,55.27
+Philips Quijote BRP400 LED54-4s/740dm50,morado,160.0,5400.0,4257.0,399.0,444.0,4.0,34.43
+Philips Quijote BRP400 LED54-4s/740dm50,rojo,160.0,5400.0,4257.0,399.0,444.0,10.0,33.05
+Philips Quijote BRP400 LED54-4s/740dm50,verde claro,160.0,5400.0,4257.0,399.0,444.0,55.0,47.16
+Philips Quijote BRP400 LED54-4s/740dm50,verde ,160.0,5400.0,4257.0,399.0,444.0,27.0,40.1
+Philips Quijote BRP400 LED54-4s/740dm50,marrón claro,160.0,5400.0,4257.0,399.0,444.0,46.0,40.57
+Philips Quijote BRP400 LED54-4s/740dm50,marrón oscuro,160.0,5400.0,4257.0,399.0,444.0,11.0,33.47
+Philips ClearWay BGP303 LED35-4S/740,negro,80.0,3500.0,4144.0,1473.0,442.0,4.0,35.62
+Philips ClearWay BGP303 LED35-4S/740,gris oscuro,80.0,3500.0,4144.0,1473.0,442.0,20.0,69.83
+Philips ClearWay BGP303 LED35-4S/740,blanco,80.0,3500.0,4144.0,1473.0,442.0,66.0,209.0
+Philips ClearWay BGP303 LED35-4S/740,morado,80.0,3500.0,4144.0,1473.0,442.0,4.0,51.42
+Philips ClearWay BGP303 LED35-4S/740,rojo,80.0,3500.0,4144.0,1473.0,442.0,10.0,53.79
+Philips ClearWay BGP303 LED35-4S/740,verde claro,80.0,3500.0,4144.0,1473.0,442.0,55.0,145.84
+Philips ClearWay BGP303 LED35-4S/740,verde ,80.0,3500.0,4144.0,1473.0,442.0,27.0,128.44
+Philips ClearWay BGP303 LED35-4S/740,Verde oscuro,80.0,3500.0,4144.0,1473.0,442.0,11.0,67.23
+Philips ClearWay BGP303 LED35-4S/740,marrón claro,80.0,3500.0,4144.0,1473.0,442.0,46.0,134.75
+Philips ClearWay BGP303 LED35-4S/740,marrón oscuro,80.0,3500.0,4144.0,1473.0,442.0,11.0,45.94
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,negro,80.0,6724.0,3181.0,4329.0,605.0,4.0,67.91
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris oscuro,80.0,6724.0,3181.0,4329.0,605.0,20.0,154.23
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris claro,80.0,6724.0,3181.0,4329.0,605.0,42.0,284.75
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,blanco,80.0,6724.0,3181.0,4329.0,605.0,66.0,488.4
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,morado,80.0,6724.0,3181.0,4329.0,605.0,4.0,99.47
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,rojo,80.0,6724.0,3181.0,4329.0,605.0,12.0,140.63
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde claro,80.0,6724.0,3181.0,4329.0,605.0,54.0,340.87
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde ,80.0,6724.0,3181.0,4329.0,605.0,26.0,282.33
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,Verde oscuro,80.0,6724.0,3181.0,4329.0,605.0,10.0,161.7
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón claro,80.0,6724.0,3181.0,4329.0,605.0,48.0,324.0
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón oscuro,80.0,6724.0,3181.0,4329.0,605.0,12.0,111.98
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,negro,160.0,6724.0,3181.0,918.0,605.0,4.0,46.2
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris oscuro,160.0,6724.0,3181.0,918.0,605.0,20.0,62.72
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,gris claro,160.0,6724.0,3181.0,918.0,605.0,42.0,76.64
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,morado,160.0,6724.0,3181.0,918.0,605.0,4.0,53.76
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,rojo,160.0,6724.0,3181.0,918.0,605.0,12.0,62.43
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde claro,160.0,6724.0,3181.0,918.0,605.0,54.0,87.41
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,verde ,160.0,6724.0,3181.0,918.0,605.0,26.0,75.78
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,Verde oscuro,160.0,6724.0,3181.0,918.0,605.0,10.0,57.58
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón claro,160.0,6724.0,3181.0,918.0,605.0,48.0,94.03
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,marrón oscuro,160.0,6724.0,3181.0,918.0,605.0,12.0,49.1
+Philips Iridium Gen3 Mini BGP381 GRN45/740,negro,80.0,4500.0,4225.0,1939.0,450.0,4.0,36.64
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris oscuro,80.0,4500.0,4225.0,1939.0,450.0,20.0,65.38
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris claro,80.0,4500.0,4225.0,1939.0,450.0,42.0,108.6
+Philips Iridium Gen3 Mini BGP381 GRN45/740,blanco,80.0,4500.0,4225.0,1939.0,450.0,66.0,228.2
+Philips Iridium Gen3 Mini BGP381 GRN45/740,morado,80.0,4500.0,4225.0,1939.0,450.0,4.0,54.12
+Philips Iridium Gen3 Mini BGP381 GRN45/740,rojo,80.0,4500.0,4225.0,1939.0,450.0,10.0,59.54
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde claro,80.0,4500.0,4225.0,1939.0,450.0,55.0,139.45
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde ,80.0,4500.0,4225.0,1939.0,450.0,27.0,122.57
+Philips Iridium Gen3 Mini BGP381 GRN45/740,Verde oscuro,80.0,4500.0,4225.0,1939.0,450.0,11.0,76.86
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón claro,80.0,4500.0,4225.0,1939.0,450.0,46.0,122.44
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón oscuro,80.0,4500.0,4225.0,1939.0,450.0,11.0,47.93
+Philips Iridium Gen3 Mini BGP381 GRN45/740,negro,160.0,4500.0,4225.0,470.1,450.0,4.0,28.35
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris oscuro,160.0,4500.0,4225.0,470.1,450.0,20.0,38.4
+Philips Iridium Gen3 Mini BGP381 GRN45/740,gris claro,160.0,4500.0,4225.0,470.1,450.0,42.0,48.25
+Philips Iridium Gen3 Mini BGP381 GRN45/740,blanco,160.0,4500.0,4225.0,470.1,450.0,66.0,52.75
+Philips Iridium Gen3 Mini BGP381 GRN45/740,morado,160.0,4500.0,4225.0,470.1,450.0,4.0,32.43
+Philips Iridium Gen3 Mini BGP381 GRN45/740,rojo,160.0,4500.0,4225.0,470.1,450.0,10.0,33.37
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde claro,160.0,4500.0,4225.0,470.1,450.0,55.0,48.07
+Philips Iridium Gen3 Mini BGP381 GRN45/740,verde ,160.0,4500.0,4225.0,470.1,450.0,27.0,41.36
+Philips Iridium Gen3 Mini BGP381 GRN45/740,Verde oscuro,160.0,4500.0,4225.0,470.1,450.0,11.0,33.21
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón claro,160.0,4500.0,4225.0,470.1,450.0,46.0,41.8
+
+Hispaled Vera Series VRS60W R4S PF 3000K,negro,80.0,6000.0,3099.0,4606.0,598.0,4.0,63.82
+Hispaled Vera Series VRS60W R4S PF 3000K,gris oscuro,80.0,6000.0,3099.0,4606.0,598.0,20.0,130.24
+Hispaled Vera Series VRS60W R4S PF 3000K,gris claro,80.0,6000.0,3099.0,4606.0,598.0,42.0,248.63
+Hispaled Vera Series VRS60W R4S PF 3000K,blanco,80.0,6000.0,3099.0,4606.0,598.0,66.0,485.78
+Hispaled Vera Series VRS60W R4S PF 3000K,rojo,80.0,6000.0,3099.0,4606.0,598.0,12.0,121.0
+Hispaled Vera Series VRS60W R4S PF 3000K,verde claro,80.0,6000.0,3099.0,4606.0,598.0,54.0,331.2
+Hispaled Vera Series VRS60W R4S PF 3000K,verde ,80.0,6000.0,3099.0,4606.0,598.0,26.0,230.18
+Hispaled Vera Series VRS60W R4S PF 3000K,Verde oscuro,80.0,6000.0,3099.0,4606.0,598.0,10.0,134.38
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón claro,80.0,6000.0,3099.0,4606.0,598.0,48.0,285.79
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón oscuro,80.0,6000.0,3099.0,4606.0,598.0,12.0,86.08
+Hispaled Vera Series VRS60W R4S PF 3000K,negro,160.0,6000.0,3099.0,1090.0,598.0,4.0,72.17
+Hispaled Vera Series VRS60W R4S PF 3000K,gris oscuro,160.0,6000.0,3099.0,1090.0,598.0,20.0,95.07
+Hispaled Vera Series VRS60W R4S PF 3000K,gris claro,160.0,6000.0,3099.0,1090.0,598.0,42.0,98.17
+Hispaled Vera Series VRS60W R4S PF 3000K,blanco,160.0,6000.0,3099.0,1090.0,598.0,66.0,141.78
+Hispaled Vera Series VRS60W R4S PF 3000K,morado,160.0,6000.0,3099.0,1090.0,598.0,4.0,82.53
+Hispaled Vera Series VRS60W R4S PF 3000K,rojo,160.0,6000.0,3099.0,1090.0,598.0,12.0,86.77
+Hispaled Vera Series VRS60W R4S PF 3000K,verde claro,160.0,6000.0,3099.0,1090.0,598.0,54.0,111.87
+Hispaled Vera Series VRS60W R4S PF 3000K,verde ,160.0,6000.0,3099.0,1090.0,598.0,26.0,110.97
+Hispaled Vera Series VRS60W R4S PF 3000K,Verde oscuro,160.0,6000.0,3099.0,1090.0,598.0,10.0,81.64
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón claro,160.0,6000.0,3099.0,1090.0,598.0,48.0,115.38
+Hispaled Vera Series VRS60W R4S PF 3000K,marrón oscuro,160.0,6000.0,3099.0,1090.0,598.0,12.0,83.27

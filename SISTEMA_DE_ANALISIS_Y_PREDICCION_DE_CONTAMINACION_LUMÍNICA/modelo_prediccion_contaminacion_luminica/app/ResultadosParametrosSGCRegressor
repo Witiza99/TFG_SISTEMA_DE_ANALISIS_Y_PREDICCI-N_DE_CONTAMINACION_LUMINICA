@@ -1,641 +1,641 @@
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000100= 	0.023073 0.088878
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000100= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000200= 	0.023077 0.088881
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000200= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000300= 	0.023081 0.088884
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000300= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000400= 	0.023085 0.088886
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000400= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000500= 	0.023089 0.088889
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000500= 	0.007137 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000600= 	0.023093 0.088891
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000600= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000700= 	0.023097 0.088894
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000700= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000800= 	0.023101 0.088897
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000800= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000900= 	0.023104 0.088899
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.000900= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001000= 	0.023108 0.088902
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001000= 	0.007140 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001100= 	0.023112 0.088904
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001100= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001200= 	0.023116 0.088907
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001200= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001300= 	0.023120 0.088910
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001300= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001400= 	0.023124 0.088912
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001400= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001500= 	0.023128 0.088915
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001500= 	0.007143 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001600= 	0.023132 0.088917
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001600= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001700= 	0.023136 0.088920
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001700= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001800= 	0.023139 0.088923
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001800= 	0.007145 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001900= 	0.023143 0.088925
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.001900= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.002000= 	0.023147 0.088928
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=False, alpha=0.002000= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000100= 	0.023294 0.089730
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000100= 	0.007124 0.065550
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000200= 	0.023370 0.089241
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000200= 	0.007096 0.065630
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000300= 	0.022939 0.089244
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000300= 	0.007016 0.064779
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000400= 	0.023181 0.089266
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000400= 	0.007034 0.064759
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000500= 	0.023306 0.089016
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000500= 	0.007150 0.066252
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000600= 	0.023157 0.090345
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000600= 	0.007010 0.064678
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000700= 	0.023407 0.089238
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000700= 	0.006925 0.064132
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000800= 	0.023319 0.089314
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000800= 	0.007047 0.065149
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000900= 	0.023328 0.089183
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.000900= 	0.006949 0.064151
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001000= 	0.022909 0.090291
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001000= 	0.007064 0.065400
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001100= 	0.023250 0.088927
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001100= 	0.007011 0.064649
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001200= 	0.023189 0.089324
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001200= 	0.007057 0.065502
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001300= 	0.023228 0.088967
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001300= 	0.007092 0.065820
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001400= 	0.023457 0.089453
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001400= 	0.006949 0.064421
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001500= 	0.023358 0.089540
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001500= 	0.007042 0.065097
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001600= 	0.022990 0.088866
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001600= 	0.007117 0.065298
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001700= 	0.023357 0.090264
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001700= 	0.006976 0.064478
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001800= 	0.022982 0.090424
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001800= 	0.007041 0.064897
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001900= 	0.023179 0.090020
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.001900= 	0.006943 0.064320
  
-MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.002000= 	0.023193 0.089487
+MSE & MAE Final con early_stopping=False, validation=0.100000, shuffle=True, alpha=0.002000= 	0.006989 0.065091
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000100= 	0.023073 0.088878
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000100= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000200= 	0.023077 0.088881
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000200= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000300= 	0.023081 0.088884
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000300= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000400= 	0.023085 0.088886
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000400= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000500= 	0.023089 0.088889
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000500= 	0.007137 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000600= 	0.023093 0.088891
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000600= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000700= 	0.023097 0.088894
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000700= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000800= 	0.023101 0.088897
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000800= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000900= 	0.023104 0.088899
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.000900= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001000= 	0.023108 0.088902
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001000= 	0.007140 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001100= 	0.023112 0.088904
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001100= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001200= 	0.023116 0.088907
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001200= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001300= 	0.023120 0.088910
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001300= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001400= 	0.023124 0.088912
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001400= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001500= 	0.023128 0.088915
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001500= 	0.007143 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001600= 	0.023132 0.088917
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001600= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001700= 	0.023136 0.088920
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001700= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001800= 	0.023139 0.088923
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001800= 	0.007145 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001900= 	0.023143 0.088925
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.001900= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.002000= 	0.023147 0.088928
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=False, alpha=0.002000= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000100= 	0.023107 0.089877
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000100= 	0.007038 0.065186
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000200= 	0.023387 0.089749
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000200= 	0.006985 0.064853
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000300= 	0.023005 0.089531
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000300= 	0.006931 0.063761
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000400= 	0.022511 0.089203
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000400= 	0.007022 0.065007
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000500= 	0.023171 0.089333
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000500= 	0.006943 0.064152
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000600= 	0.023344 0.089909
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000600= 	0.007099 0.065451
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000700= 	0.022977 0.089751
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000700= 	0.007014 0.064857
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000800= 	0.023409 0.089760
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000800= 	0.006934 0.064370
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000900= 	0.022908 0.089876
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.000900= 	0.007138 0.065435
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001000= 	0.023405 0.089028
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001000= 	0.006893 0.064285
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001100= 	0.023381 0.088984
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001100= 	0.006976 0.065000
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001200= 	0.023318 0.089967
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001200= 	0.007130 0.065458
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001300= 	0.023491 0.089334
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001300= 	0.007221 0.066357
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001400= 	0.023185 0.089022
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001400= 	0.007041 0.065095
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001500= 	0.023444 0.090046
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001500= 	0.007014 0.064551
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001600= 	0.023228 0.089985
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001600= 	0.007185 0.066164
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001700= 	0.022689 0.089833
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001700= 	0.007179 0.065846
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001800= 	0.023116 0.089250
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001800= 	0.007053 0.064821
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001900= 	0.023260 0.089241
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.001900= 	0.007009 0.065057
  
-MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.002000= 	0.023267 0.089633
+MSE & MAE Final con early_stopping=False, validation=0.400000, shuffle=True, alpha=0.002000= 	0.006968 0.064176
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000100= 	0.023073 0.088878
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000100= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000200= 	0.023077 0.088881
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000200= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000300= 	0.023081 0.088884
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000300= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000400= 	0.023085 0.088886
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000400= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000500= 	0.023089 0.088889
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000500= 	0.007137 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000600= 	0.023093 0.088891
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000600= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000700= 	0.023097 0.088894
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000700= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000800= 	0.023101 0.088897
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000800= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000900= 	0.023104 0.088899
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.000900= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001000= 	0.023108 0.088902
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001000= 	0.007140 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001100= 	0.023112 0.088904
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001100= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001200= 	0.023116 0.088907
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001200= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001300= 	0.023120 0.088910
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001300= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001400= 	0.023124 0.088912
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001400= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001500= 	0.023128 0.088915
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001500= 	0.007143 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001600= 	0.023132 0.088917
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001600= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001700= 	0.023136 0.088920
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001700= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001800= 	0.023139 0.088923
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001800= 	0.007145 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001900= 	0.023143 0.088925
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.001900= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.002000= 	0.023147 0.088928
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=False, alpha=0.002000= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000100= 	0.022957 0.089400
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000100= 	0.006961 0.064564
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000200= 	0.023203 0.089467
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000200= 	0.006996 0.064875
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000300= 	0.023194 0.089403
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000300= 	0.006903 0.063860
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000400= 	0.023366 0.089165
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000400= 	0.006932 0.064174
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000500= 	0.023335 0.089133
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000500= 	0.007082 0.065450
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000600= 	0.023241 0.089625
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000600= 	0.007002 0.064348
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000700= 	0.023286 0.089769
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000700= 	0.006919 0.064099
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000800= 	0.022979 0.089544
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000800= 	0.006972 0.064953
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000900= 	0.023373 0.089282
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.000900= 	0.007063 0.065025
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001000= 	0.023377 0.089344
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001000= 	0.007046 0.064810
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001100= 	0.023139 0.089887
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001100= 	0.007006 0.064514
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001200= 	0.023074 0.089684
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001200= 	0.007053 0.065243
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001300= 	0.023194 0.090318
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001300= 	0.007037 0.064723
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001400= 	0.023175 0.089555
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001400= 	0.007036 0.064892
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001500= 	0.023116 0.089614
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001500= 	0.006983 0.064471
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001600= 	0.022958 0.089445
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001600= 	0.007219 0.066241
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001700= 	0.023193 0.089532
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001700= 	0.007214 0.065907
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001800= 	0.022532 0.089043
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001800= 	0.006932 0.064109
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001900= 	0.023300 0.089123
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.001900= 	0.007008 0.065128
  
-MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.002000= 	0.023318 0.090067
+MSE & MAE Final con early_stopping=False, validation=0.300000, shuffle=True, alpha=0.002000= 	0.007093 0.064975
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000100= 	0.023073 0.088878
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000100= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000200= 	0.023077 0.088881
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000200= 	0.007135 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000300= 	0.023081 0.088884
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000300= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000400= 	0.023085 0.088886
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000400= 	0.007136 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000500= 	0.023089 0.088889
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000500= 	0.007137 0.065411
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000600= 	0.023093 0.088891
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000600= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000700= 	0.023097 0.088894
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000700= 	0.007138 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000800= 	0.023101 0.088897
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000800= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000900= 	0.023104 0.088899
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.000900= 	0.007139 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001000= 	0.023108 0.088902
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001000= 	0.007140 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001100= 	0.023112 0.088904
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001100= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001200= 	0.023116 0.088907
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001200= 	0.007141 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001300= 	0.023120 0.088910
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001300= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001400= 	0.023124 0.088912
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001400= 	0.007142 0.065410
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001500= 	0.023128 0.088915
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001500= 	0.007143 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001600= 	0.023132 0.088917
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001600= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001700= 	0.023136 0.088920
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001700= 	0.007144 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001800= 	0.023139 0.088923
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001800= 	0.007145 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001900= 	0.023143 0.088925
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.001900= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.002000= 	0.023147 0.088928
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=False, alpha=0.002000= 	0.007146 0.065409
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000100= 	0.023086 0.089720
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000100= 	0.007203 0.066165
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000200= 	0.023072 0.089688
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000200= 	0.007056 0.065342
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000300= 	0.023069 0.089718
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000300= 	0.007144 0.066051
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000400= 	0.023134 0.089086
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000400= 	0.007065 0.065430
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000500= 	0.023362 0.089326
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000500= 	0.006946 0.064465
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000600= 	0.023095 0.089763
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000600= 	0.007121 0.065472
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000700= 	0.022784 0.088926
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000700= 	0.006891 0.064070
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000800= 	0.022961 0.088399
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000800= 	0.007082 0.064964
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000900= 	0.023132 0.089359
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.000900= 	0.006992 0.064742
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001000= 	0.022955 0.089875
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001000= 	0.006837 0.063614
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001100= 	0.023370 0.089396
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001100= 	0.006944 0.064614
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001200= 	0.023051 0.089170
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001200= 	0.006972 0.064260
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001300= 	0.022941 0.089620
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001300= 	0.006875 0.063934
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001400= 	0.023177 0.088759
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001400= 	0.007019 0.065021
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001500= 	0.023106 0.089362
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001500= 	0.007063 0.065160
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001600= 	0.023505 0.089446
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001600= 	0.006853 0.064223
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001700= 	0.023070 0.089509
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001700= 	0.006891 0.063673
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001800= 	0.023493 0.090256
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001800= 	0.007001 0.064593
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001900= 	0.022938 0.089087
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.001900= 	0.007037 0.064460
  
-MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.002000= 	0.023432 0.089954
+MSE & MAE Final con early_stopping=False, validation=0.200000, shuffle=True, alpha=0.002000= 	0.007062 0.065589
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000100= 	0.016750 0.086211
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000100= 	0.007125 0.069893
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000200= 	0.016374 0.085750
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000200= 	0.006442 0.067611
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000300= 	0.015740 0.085257
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000300= 	0.006872 0.069239
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000400= 	0.017831 0.086844
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000400= 	0.006913 0.070075
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000500= 	0.020329 0.087478
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000500= 	0.006595 0.069172
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000600= 	0.016352 0.084903
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000600= 	0.006932 0.071815
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000700= 	0.016713 0.085449
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000700= 	0.006777 0.067777
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000800= 	0.017097 0.086012
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000800= 	0.006814 0.069051
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000900= 	0.020262 0.088143
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.000900= 	0.006313 0.066825
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001000= 	0.016189 0.083804
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001000= 	0.006468 0.067973
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001100= 	0.015361 0.084739
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001100= 	0.006572 0.067890
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001200= 	0.018154 0.084413
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001200= 	0.006424 0.068175
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001300= 	0.019280 0.087580
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001300= 	0.006751 0.069507
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001400= 	0.015404 0.082251
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001400= 	0.006966 0.070642
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001500= 	0.019416 0.086195
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001500= 	0.006779 0.069718
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001600= 	0.016344 0.085701
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001600= 	0.006774 0.069358
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001700= 	0.025036 0.093958
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001700= 	0.006521 0.066585
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001800= 	0.016607 0.083603
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001800= 	0.006750 0.069196
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001900= 	0.016632 0.082965
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.001900= 	0.007012 0.067637
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.002000= 	0.016175 0.081812
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=False, alpha=0.002000= 	0.006939 0.068073
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000100= 	0.016159 0.084182
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000100= 	0.006726 0.066992
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000200= 	0.019533 0.088837
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000200= 	0.006802 0.069762
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000300= 	0.018021 0.087234
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000300= 	0.006926 0.070780
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000400= 	0.018223 0.087628
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000400= 	0.006653 0.066771
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000500= 	0.017120 0.082411
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000500= 	0.006661 0.068613
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000600= 	0.019900 0.087830
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000600= 	0.006602 0.067599
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000700= 	0.015728 0.083949
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000700= 	0.006864 0.069999
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000800= 	0.015943 0.084662
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000800= 	0.006761 0.069854
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000900= 	0.016164 0.082578
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.000900= 	0.006904 0.068737
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001000= 	0.015901 0.085959
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001000= 	0.006798 0.068165
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001100= 	0.017433 0.085807
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001100= 	0.006368 0.068741
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001200= 	0.015951 0.084117
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001200= 	0.006881 0.070393
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001300= 	0.016718 0.085421
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001300= 	0.006540 0.069175
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001400= 	0.020111 0.088958
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001400= 	0.006558 0.067882
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001500= 	0.016219 0.084472
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001500= 	0.006808 0.070027
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001600= 	0.015900 0.082920
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001600= 	0.006697 0.070123
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001700= 	0.016783 0.086582
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001700= 	0.006716 0.070411
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001800= 	0.017005 0.083463
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001800= 	0.006057 0.064684
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001900= 	0.016768 0.084765
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.001900= 	0.006458 0.065532
  
-MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.002000= 	0.016250 0.084674
+MSE & MAE Final con early_stopping=True, validation=0.100000, shuffle=True, alpha=0.002000= 	0.006698 0.069218
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000100= 	0.019710 0.079620
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000100= 	0.006366 0.066326
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000200= 	0.016920 0.083426
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000200= 	0.006705 0.070393
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000300= 	0.016961 0.083988
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000300= 	0.007009 0.072040
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000400= 	0.017498 0.087540
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000400= 	0.006470 0.067085
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000500= 	0.018190 0.083085
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000500= 	0.006842 0.068683
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000600= 	0.017535 0.089788
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000600= 	0.007061 0.071141
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000700= 	0.018349 0.084633
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000700= 	0.006700 0.069216
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000800= 	0.016538 0.086025
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000800= 	0.006185 0.065017
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000900= 	0.019588 0.085999
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.000900= 	0.006283 0.066543
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001000= 	0.017425 0.087521
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001000= 	0.006680 0.069264
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001100= 	0.017031 0.084392
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001100= 	0.006309 0.064442
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001200= 	0.017620 0.085729
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001200= 	0.006283 0.067456
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001300= 	0.017067 0.085714
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001300= 	0.007491 0.072523
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001400= 	0.018505 0.093044
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001400= 	0.006612 0.066728
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001500= 	0.018531 0.081832
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001500= 	0.006787 0.068317
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001600= 	0.017848 0.089686
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001600= 	0.006879 0.069122
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001700= 	0.017182 0.083037
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001700= 	0.005614 0.063666
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001800= 	0.017933 0.082934
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001800= 	0.007374 0.072102
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001900= 	0.016538 0.087820
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.001900= 	0.006729 0.069405
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.002000= 	0.017112 0.086395
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=False, alpha=0.002000= 	0.006871 0.072048
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000100= 	0.017006 0.086134
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000100= 	0.006928 0.071440
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000200= 	0.016623 0.083055
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000200= 	0.006706 0.069089
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000300= 	0.017161 0.082248
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000300= 	0.006965 0.064673
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000400= 	0.018141 0.086755
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000400= 	0.006806 0.070503
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000500= 	0.016142 0.082354
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000500= 	0.006631 0.069771
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000600= 	0.016241 0.080911
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000600= 	0.005357 0.058358
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000700= 	0.016142 0.086656
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000700= 	0.006099 0.064828
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000800= 	0.017357 0.085376
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000800= 	0.006931 0.068931
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000900= 	0.016917 0.087310
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.000900= 	0.007244 0.067506
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001000= 	0.016128 0.082432
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001000= 	0.006692 0.067397
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001100= 	0.017977 0.084652
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001100= 	0.006088 0.065240
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001200= 	0.018863 0.092693
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001200= 	0.007111 0.069635
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001300= 	0.017248 0.088940
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001300= 	0.006714 0.069456
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001400= 	0.019564 0.081005
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001400= 	0.006332 0.065768
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001500= 	0.017063 0.086762
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001500= 	0.005948 0.063566
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001600= 	0.019670 0.088320
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001600= 	0.007396 0.074072
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001700= 	0.018159 0.091579
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001700= 	0.006963 0.070118
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001800= 	0.017217 0.085896
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001800= 	0.006587 0.071563
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001900= 	0.018142 0.090131
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.001900= 	0.007011 0.070383
  
-MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.002000= 	0.017645 0.087358
+MSE & MAE Final con early_stopping=True, validation=0.400000, shuffle=True, alpha=0.002000= 	0.006941 0.069925
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000100= 	0.016943 0.087838
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000100= 	0.006473 0.067848
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000200= 	0.017001 0.087243
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000200= 	0.006991 0.071583
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000300= 	0.016999 0.085714
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000300= 	0.006542 0.068444
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000400= 	0.017680 0.083604
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000400= 	0.006120 0.065817
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000500= 	0.017180 0.084319
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000500= 	0.006802 0.069359
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000600= 	0.018370 0.082739
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000600= 	0.006870 0.069817
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000700= 	0.017262 0.085427
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000700= 	0.007466 0.073447
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000800= 	0.017769 0.088203
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000800= 	0.006366 0.068586
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000900= 	0.017718 0.088226
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.000900= 	0.007229 0.071684
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001000= 	0.016781 0.083571
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001000= 	0.006674 0.069021
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001100= 	0.016879 0.086533
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001100= 	0.006763 0.070090
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001200= 	0.018250 0.085419
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001200= 	0.006415 0.069030
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001300= 	0.016588 0.082931
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001300= 	0.006699 0.069661
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001400= 	0.016637 0.085014
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001400= 	0.006976 0.068277
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001500= 	0.017171 0.083616
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001500= 	0.006444 0.066802
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001600= 	0.017107 0.085665
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001600= 	0.006541 0.068538
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001700= 	0.017062 0.088464
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001700= 	0.005871 0.065216
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001800= 	0.016736 0.086327
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001800= 	0.005862 0.065126
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001900= 	0.016506 0.083230
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.001900= 	0.007267 0.072959
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.002000= 	0.017000 0.087025
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=False, alpha=0.002000= 	0.007246 0.071853
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000100= 	0.016997 0.085042
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000100= 	0.006685 0.066468
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000200= 	0.017884 0.088033
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000200= 	0.005908 0.065354
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000300= 	0.017720 0.089191
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000300= 	0.006989 0.071623
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000400= 	0.016570 0.082210
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000400= 	0.006217 0.067846
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000500= 	0.018339 0.089983
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000500= 	0.006986 0.072183
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000600= 	0.018232 0.083696
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000600= 	0.006597 0.069505
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000700= 	0.016468 0.085784
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000700= 	0.006786 0.068788
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000800= 	0.016281 0.083836
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000800= 	0.006548 0.070142
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000900= 	0.016807 0.087122
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.000900= 	0.006896 0.068756
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001000= 	0.016495 0.082673
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001000= 	0.006115 0.062246
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001100= 	0.017741 0.083014
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001100= 	0.006247 0.063996
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001200= 	0.017206 0.087655
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001200= 	0.006932 0.069985
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001300= 	0.017087 0.087505
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001300= 	0.006751 0.070353
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001400= 	0.016891 0.083684
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001400= 	0.005935 0.064436
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001500= 	0.016740 0.082660
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001500= 	0.006051 0.062732
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001600= 	0.016965 0.086417
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001600= 	0.007338 0.071014
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001700= 	0.016803 0.084639
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001700= 	0.006338 0.066284
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001800= 	0.016885 0.083910
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001800= 	0.006991 0.070820
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001900= 	0.017342 0.089064
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.001900= 	0.007267 0.073078
  
-MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.002000= 	0.016957 0.084373
+MSE & MAE Final con early_stopping=True, validation=0.300000, shuffle=True, alpha=0.002000= 	0.006978 0.069292
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000100= 	0.016115 0.080789
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000100= 	0.006781 0.069878
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000200= 	0.016745 0.085811
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000200= 	0.007203 0.071045
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000300= 	0.016420 0.086835
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000300= 	0.006840 0.067709
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000400= 	0.017295 0.087658
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000400= 	0.006991 0.070490
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000500= 	0.018023 0.084770
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000500= 	0.006811 0.069657
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000600= 	0.017891 0.089632
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000600= 	0.007067 0.069591
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000700= 	0.017238 0.083406
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000700= 	0.006644 0.069434
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000800= 	0.018157 0.083978
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000800= 	0.006130 0.064788
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000900= 	0.016233 0.084746
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.000900= 	0.006853 0.069928
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001000= 	0.016162 0.083618
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001000= 	0.007071 0.071257
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001100= 	0.016746 0.084057
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001100= 	0.006906 0.070493
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001200= 	0.017411 0.082419
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001200= 	0.007164 0.071094
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001300= 	0.018565 0.086097
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001300= 	0.006801 0.069738
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001400= 	0.017068 0.086314
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001400= 	0.006821 0.068494
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001500= 	0.018070 0.088293
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001500= 	0.007130 0.070539
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001600= 	0.017144 0.087422
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001600= 	0.006924 0.069345
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001700= 	0.018400 0.086621
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001700= 	0.006168 0.066702
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001800= 	0.016481 0.084209
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001800= 	0.006369 0.067505
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001900= 	0.016541 0.087008
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.001900= 	0.007009 0.070142
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.002000= 	0.017803 0.087392
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=False, alpha=0.002000= 	0.006813 0.070542
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000100= 	0.016525 0.086182
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000100= 	0.006285 0.066828
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000200= 	0.016796 0.087778
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000200= 	0.006913 0.071030
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000300= 	0.016988 0.086435
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000300= 	0.006910 0.071268
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000400= 	0.016665 0.085700
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000400= 	0.006747 0.070009
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000500= 	0.015734 0.085767
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000500= 	0.006772 0.070531
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000600= 	0.015751 0.080613
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000600= 	0.006976 0.070880
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000700= 	0.016557 0.086867
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000700= 	0.006938 0.069403
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000800= 	0.017908 0.088699
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000800= 	0.006674 0.066382
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000900= 	0.017316 0.086740
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.000900= 	0.006564 0.068407
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001000= 	0.016470 0.088658
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001000= 	0.006976 0.069920
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001100= 	0.016524 0.084144
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001100= 	0.006770 0.067917
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001200= 	0.015591 0.083813
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001200= 	0.006837 0.071536
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001300= 	0.017196 0.087335
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001300= 	0.006438 0.065977
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001400= 	0.016504 0.085627
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001400= 	0.006221 0.066303
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001500= 	0.015611 0.080975
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001500= 	0.006064 0.065027
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001600= 	0.018341 0.088200
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001600= 	0.006900 0.067789
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001700= 	0.015798 0.083566
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001700= 	0.006947 0.070029
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001800= 	0.016764 0.085549
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001800= 	0.006618 0.069144
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001900= 	0.019452 0.082607
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.001900= 	0.007042 0.070500
  
-MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.002000= 	0.016371 0.084688
+MSE & MAE Final con early_stopping=True, validation=0.200000, shuffle=True, alpha=0.002000= 	0.006157 0.067152
  
-Los mejores parametros para el SGDRegressor es early_stopping->True, validation->0.1, shuffle->False, alpha->0.0011 con un MSE de:0.015361119371025328 y un MAE de 0.08473895720183705
+Los mejores parametros para el SGDRegressor es early_stopping->True, validation->0.4, shuffle->True, alpha->0.0006 con un MSE de:0.005357486809333842 y un MAE de 0.05835813839758818

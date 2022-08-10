@@ -1,0 +1,2 @@
+Los dos ficheros csv estan modificados manualmente donde se le han extraido datos de uno para almacenarlos en el otro. El csv de los datos se paso manualmente al programa principal para entrenar sin esos patrones. Al entrenar es necesario poner la flag crear_nuevo_fichero_entrenamiento a false para que coja el fichero pasado y no cree uno nuevo con los patrones que extraimos.
+Cliente es un programa que simula la toma de datos de una persona para obtener una contaminacion luminica.

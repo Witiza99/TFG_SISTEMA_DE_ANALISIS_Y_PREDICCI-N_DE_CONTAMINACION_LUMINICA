@@ -4,6 +4,7 @@ from fastapi.responses import JSONResponse
 from fastapi.encoders import jsonable_encoder
 import numpy as np
 import pandas as pd
+from typing import Optional
 
 import mysql.connector #paquete para insertar en la bd de mysql
 
@@ -86,11 +87,12 @@ def read_root(base_de_datos: str, archivo_datos: str):
 
 
 @app.get("/entrenar/")#get que entrena el modelo
-def read_root(base_de_datos: str):
+def read_root(base_de_datos: str, crear_nuevo_fichero_entrenamiento: Optional[bool] = True):
 
 	#creamos el fichero para entrenar con los datos que deseamos de la base de datos
-	if -1 != crear_fichero_entrenamiento(base_de_datos):#funcion que crea el fichero con los datos de la bd
-		return {"Error al crear el archivo con los patrones de la bd"}
+	if crear_nuevo_fichero_entrenamiento:
+		if -1 != crear_fichero_entrenamiento(base_de_datos):#funcion que crea el fichero con los datos de la bd
+			return {"Error al crear el archivo con los patrones de la bd"}
 
 	fichero_entrenamiento = "db.csv"
 
@@ -139,7 +141,7 @@ def read_root(base_de_datos: str):
 
 @app.get("/predecir/")#get que predice la iluminancia superior
 
-def read_root(base_de_datos: str, ColorSuelo: str, AlturaLuminaria: str, FlujoLuminicoTotal: str, TCC: str,
+def read_root(ColorSuelo: str, AlturaLuminaria: str, FlujoLuminicoTotal: str, TCC: str,
 	IluminanciaAbajo: str, Espectro: str, ReflectanciaSuelo: str, IluminanciaSuperior: str):
 
 	patronesDict = {
@@ -212,50 +214,50 @@ def crear_fichero_entrenamiento(base_de_datos):
 #funcion para leer datos del fichero
 def read_data(fichero_datos, prediccion = False):
 
-	#try:
+	try:
 
-	Dataset = None
-	Inputs = None
-	Outputs = None
-	train_inputs = None
-	train_outputs = None
-	test_inputs = None
-	test_outputs = None 
-	scaler = None
+		Dataset = None
+		Inputs = None
+		Outputs = None
+		train_inputs = None
+		train_outputs = None
+		test_inputs = None
+		test_outputs = None 
+		scaler = None
 
-	#guardamos los datos en un dataset de tipo string
-	Dataset = pd.read_csv(fichero_datos)
-	#reordeno las columnas para poner los cardinales en las primeras filas para usar el columnTransformer
-	titulos_columnas = ["ColorSuelo", "AlturaLuminaria", "FlujoLuminicoTotal", "TCC", "IluminanciaAbajo", "Espectro", "ReflectanciaSuelo", "IluminanciaSuperior"]
-	Dataset=Dataset.reindex(columns=titulos_columnas)
+		#guardamos los datos en un dataset de tipo string
+		Dataset = pd.read_csv(fichero_datos)
+		#reordeno las columnas para poner los cardinales en las primeras filas para usar el columnTransformer
+		titulos_columnas = ["ColorSuelo", "AlturaLuminaria", "FlujoLuminicoTotal", "TCC", "IluminanciaAbajo", "Espectro", "ReflectanciaSuelo", "IluminanciaSuperior"]
+		Dataset=Dataset.reindex(columns=titulos_columnas)
 
-	if prediccion == False:
-		ct = ColumnTransformer(transformers=[('encoder', OneHotEncoder(sparse=False), list(range(1)))], remainder= 'passthrough')
-		Dataset = np.array(ct.fit_transform(Dataset))#transformo en numpy y necesito cambiar a pandas
-		Dataset = pd.DataFrame(Dataset,columns=["Negro", "GrisOscuro", "GrisClaro", "Blanco", "Morado", "Rojo", "VerdeClaro", "Verde", "VerdeOscuro", "MarrorClaro", "MarronOscuro",
-			"AlturaLuminaria", "FlujoLuminicoTotal", "TCC", "IluminanciaAbajo", "Espectro", "ReflectanciaSuelo", "IluminanciaSuperior"])
+		if prediccion == False:
+			ct = ColumnTransformer(transformers=[('encoder', OneHotEncoder(sparse=False), list(range(1)))], remainder= 'passthrough')
+			Dataset = np.array(ct.fit_transform(Dataset))#transformo en numpy y necesito cambiar a pandas
+			Dataset = pd.DataFrame(Dataset,columns=["Negro", "GrisOscuro", "GrisClaro", "Blanco", "Morado", "Rojo", "VerdeClaro", "Verde", "VerdeOscuro", "MarrorClaro", "MarronOscuro",
+				"AlturaLuminaria", "FlujoLuminicoTotal", "TCC", "IluminanciaAbajo", "Espectro", "ReflectanciaSuelo", "IluminanciaSuperior"])
 
-		#dividimos en 90% de datos para entreno y el resto para test
-		train, test = train_test_split(Dataset, test_size= 0.10)
+			#dividimos en 90% de datos para entreno y el resto para test
+			train, test = train_test_split(Dataset, test_size= 0.10)
 
-		#realizamos un preprocesamiento para normalizar los datos
-		scaler = MinMaxScaler().fit(train)
-		train = scaler.transform(train)
-		test = scaler.transform(test)
+			#realizamos un preprocesamiento para normalizar los datos
+			scaler = MinMaxScaler().fit(train)
+			train = scaler.transform(train)
+			test = scaler.transform(test)
 
-		#finalmente se dividen los datos en inputs y outputs
-		train_inputs=train[:, :-1]
-		train_outputs=train[:, -1:]
-		test_inputs=test[:, :-1]
-		test_outputs=test[:, -1:]
+			#finalmente se dividen los datos en inputs y outputs
+			train_inputs=train[:, :-1]
+			train_outputs=train[:, -1:]
+			test_inputs=test[:, :-1]
+			test_outputs=test[:, -1:]
 
-		#transforma a una unica columna para evitar warnings
-		train_outputs = train_outputs.ravel() 
-		test_outputs = test_outputs.ravel()
+			#transforma a una unica columna para evitar warnings
+			train_outputs = train_outputs.ravel() 
+			test_outputs = test_outputs.ravel()
 
-	return Dataset, train_inputs, train_outputs, test_inputs, test_outputs, scaler
+		return Dataset, train_inputs, train_outputs, test_inputs, test_outputs, scaler
 
-	"""except:
+	except:
 
 		Dataset = None
 		train_inputs = None
@@ -264,7 +266,7 @@ def read_data(fichero_datos, prediccion = False):
 		test_outputs = None
 		scaler = None
 
-		return Dataset, train_inputs, train_outputs, test_inputs, test_outputs, scaler"""
+		return Dataset, train_inputs, train_outputs, test_inputs, test_outputs, scaler
 
 
 #funcion para guardar un modelo con su scaler

@@ -1,0 +1,12 @@
+TipoLuminaria,ColorSuelo,AlturaLuminaria,FlujoLuminicoTotal,TCC,IluminanciaAbajo,Espectro,ReflectanciaSuelo,IluminanciaSuperior
+Philips Quijote BRP400 LED54-4s/740dm50,verde ,80.0,5400.0,4257.0,1633.0,444.0,27.0,129.8
+Philips EW BLAST POWERCORE CK Intelligent series,verde claro,80.0,3500.0,2670.0,2673.0,607.0,54.0,214.5
+Philips Quijote BRP400 LED54-4s/740dm50,Verde oscuro,160.0,5400.0,4257.0,399.0,444.0,11.0,34.97
+Philips Coreline Malaga LED BRP102 LED55/740 II DM,negro,160.0,4600.0,4033.0,773.0,452.0,4.0,64.74
+Philips CoreLine tempo medium BVP125 LED 67-4S/830,blanco,160.0,6724.0,3181.0,918.0,605.0,66.0,100.5
+Hispaled Vera Series VRS60W R4S PF 3000K,morado,80.0,6000.0,3099.0,4606.0,598.0,4.0,82.21
+Philips EW BLAST POWERCORE CK Intelligent series,gris oscuro,160.0,3500.0,2670.0,2096.0,607.0,20.0,26.09
+Philips ClearWay BGP303 LED35-4S/740,gris claro,80.0,3500.0,4144.0,1473.0,442.0,42.0,125.3
+Philips Iridium Gen3 Mini BGP381 GRN45/740,marrón oscuro,160.0,4500.0,4225.0,470.1,450.0,11.0,27.75
+Philips RetroFit BGS981(Experimental),marrón claro,80.0,4000.0,3060.0,709.0,627.0,48.0,72.8
+Philips EW BLAST POWERCORE CK Intelligent series,rojo,160.0,3500.0,2670.0,2096.0,607.0,12.0,27.06

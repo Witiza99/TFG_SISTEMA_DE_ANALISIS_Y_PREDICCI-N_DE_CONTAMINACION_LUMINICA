@@ -91,7 +91,7 @@ def read_root(base_de_datos: str, crear_nuevo_fichero_entrenamiento: Optional[bo
 
 	#creamos el fichero para entrenar con los datos que deseamos de la base de datos
 	if crear_nuevo_fichero_entrenamiento:
-		if -1 != crear_fichero_entrenamiento(base_de_datos):#funcion que crea el fichero con los datos de la bd
+		if -1 == crear_fichero_entrenamiento(base_de_datos):#funcion que crea el fichero con los datos de la bd
 			return {"Error al crear el archivo con los patrones de la bd"}
 
 	fichero_entrenamiento = "db.csv"

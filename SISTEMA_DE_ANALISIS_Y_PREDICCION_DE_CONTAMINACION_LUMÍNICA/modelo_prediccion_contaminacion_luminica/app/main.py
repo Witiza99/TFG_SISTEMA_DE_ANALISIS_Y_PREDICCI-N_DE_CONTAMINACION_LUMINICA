@@ -167,10 +167,10 @@ def read_root(ColorSuelo: str, AlturaLuminaria: str, FlujoLuminicoTotal: str, TC
 
 	patrones_fusionados = patron_cliente_mas_dataset(Dataset,patron_del_cliente)
 	patrones_fusionados = patrones_fusionados[-1:]
-	patrones_fusionados = scaler.transform(patrones_fusionados)[:,:-1]#preprocesado y escalado para ajustar los patrones del dia de hoy a predecir
+	patrones_fusionados = scaler.transform(patrones_fusionados)[:,:-1]#preprocesado y escalado para ajustar el patron a predecir
 	
 	#se predicen resultados, se extrane los resultados que buscamos y se desescala para que tenga sentido
-	valor_prediccion = model.predict(patrones_fusionados)#predecimos los precios
+	valor_prediccion = model.predict(patrones_fusionados)#predecimos la iluminancia superior
 	valor_prediccion = np.column_stack((patrones_fusionados,valor_prediccion))
 	valor_prediccion = scaler.inverse_transform(valor_prediccion)[:,-1]#realizamos el inverso al preprocesado y el escalado
 	valor_prediccion = np.round_(valor_prediccion, decimals=3)
@@ -310,7 +310,7 @@ def entrenarSVR(scaler, train_inputs, train_outputs, test_inputs, test_outputs):
 				mejor_Gamma = Gamma
 				mae = test_mae
 
-				#se almacena el modelo y el scaler para poder eliminar el preprocesamiento cuando sea necesario o aplicarlo
+				#se almacena el modelo y el scaler
 				guardar_modelo_y_scaler(modelo,scaler,"SVR")
 
 
@@ -362,7 +362,7 @@ def entrenarArbolDecision(scaler, train_inputs, train_outputs, test_inputs, test
 					mejor_min_samples_leaf = min_samples_leaf
 					mae = test_mae
 
-				#se almacena el modelo y el scaler para poder eliminar el preprocesamiento cuando sea necesario o aplicarlo
+				#se almacena el modelo y el scaler
 				guardar_modelo_y_scaler(modelo,scaler,"ArbolDecision")
 
 	f.write("Los mejores parametros para el arbol de decision es splitter->"+ str(mejor_splitter)+", min_samples_split->"+ str(mejor_min_samples_split)+", min_samples_leaf->"+ str(mejor_min_samples_leaf)+ " con un MSE de:"+ str(mejor_mse) + " y un MAE de "+str(mae))
@@ -416,7 +416,7 @@ def entrenarRandomForest(scaler, train_inputs, train_outputs, test_inputs, test_
 						mejor_min_samples_leaf = min_samples_leaf
 						mejor_max_features = max_features
 
-						#se almacena el modelo y el scaler para poder eliminar el preprocesamiento cuando sea necesario o aplicarlo
+						#se almacena el modelo y el scaler
 						guardar_modelo_y_scaler(modelo,scaler,"RandomForest")
 
 	f.write("Los mejores parametros para el random forest es n_estimators->"+ str(mejor_n_estimators) + "max_features->"+ str(mejor_max_features) + ", min_samples_split->"+ str(mejor_min_samples_split) +", min_samples_leaf->"+ str(mejor_min_samples_leaf) + " con un MSE de:"+ str(mejor_mse)+" y un MAE de "+str(mae))
@@ -451,7 +451,7 @@ def entrenarRegresionLineal(scaler, train_inputs, train_outputs, test_inputs, te
 	f.write("MSE & MAE Final con para la regresion lineal: \t%f %f\n" % (test_mse, test_mae))
 	f.close()
 
-	#se almacena el modelo y el scaler para poder eliminar el preprocesamiento cuando sea necesario o aplicarlo
+	#se almacena el modelo y el scaler
 	guardar_modelo_y_scaler(modelo,scaler,"RegresionLineal")
 	
 	print("******************")
@@ -501,7 +501,7 @@ def entrenarSDGRegressor(scaler, train_inputs, train_outputs, test_inputs, test_
 							mejor_shuffle = shuffle
 							mejor_alpha = alpha/10000
 
-							#se almacena el modelo y el scaler para poder eliminar el preprocesamiento cuando sea necesario o aplicarlo
+							#se almacena el modelo y el scaler
 							guardar_modelo_y_scaler(modelo,scaler,"SGDRegressor")
 							
 

@@ -198,7 +198,7 @@ def crear_fichero_entrenamiento(base_de_datos):
 
 		#creamos conexion con la bd
 		conn = mysql.connector.connect(#conexion de la bd
-		   user='root', password='password', host=mysql, port=3306, database=base_de_datos)
+		   user='root', password='password', host='mysql', port=3306, database=base_de_datos)
 
 		#se realiza la peticion de sql para extraer los datos de la bd y exportarlos a fichero csv
 		temp = pd.read_sql_query("Select ColorSuelo, AlturaLuminaria, FlujoLuminicoTotal, TCC, IluminanciaAbajo, Espectro, ReflectanciaSuelo, IluminanciaSuperior FROM datos_luminaria", conn)

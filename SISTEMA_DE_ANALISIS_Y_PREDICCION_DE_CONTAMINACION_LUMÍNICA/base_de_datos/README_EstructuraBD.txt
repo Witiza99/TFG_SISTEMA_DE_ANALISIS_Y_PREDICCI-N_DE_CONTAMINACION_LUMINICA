@@ -23,17 +23,17 @@ Esta tabla contiene información sobre los atributos extraidos para los experime
 	
 	
 	
-	    Field			|           Type		| Null		| Key		 | Default 	| Extra
---------------------------------------+------------------------------+--------------+----------------+-------------+-------+
- TipoLuminaria				| varchar(255)		 	| YES		| 		 |		|
- AlturaLuminaria			| float			| YES		|		 |		|
- FlujoLuminicoTotal			| float			| YES		| 		 |		|
- TCC					| float			| YES		|  		 |		|
- IluminanciaAbajo			| float			| YES		| 		 | 		|
- Espectro				| float			| YES		| 		 | 		|
- ColorSuelo				| varchar(255)			| YES		| 		 |		| 
- ReflectanciaSuelo			| float			| YES		|		 | 		|
- IluminanciaSuperior			| float			| YES		|		 | 		|
- FlujoSuperior				| float			| YES		| 		 | 		|
- FHSI					| float			| YES		|		 | 		|
+	    Field			|           Type		| Null		| Key	 | Default 	| Extra
+------------------------+-----------------------+-----------+--------+----------+-------+
+ TipoLuminaria			| varchar(255)			| YES		| 		 |			|
+ AlturaLuminaria		| float					| YES		|		 |			|
+ FlujoLuminicoTotal		| float					| YES		| 		 |			|
+ TCC					| float					| YES		|  		 |			|
+ IluminanciaAbajo		| float					| YES		| 		 | 			|
+ Espectro				| float					| YES		| 		 | 			|
+ ColorSuelo				| varchar(255)			| YES		| 		 |			| 
+ ReflectanciaSuelo		| float					| YES		|		 | 			|
+ IluminanciaSuperior	| float					| YES		|		 | 			|
+ FlujoSuperior			| float					| YES		| 		 | 			|
+ FHSI					| float					| YES		|		 | 			|
 
